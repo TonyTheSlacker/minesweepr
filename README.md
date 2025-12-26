@@ -49,8 +49,9 @@ Best times are stored as strings in the browser's local storage to ensure data p
 
 1. **Clone the repository:**
    ```bash
-     git clone [https://github.com/TonyTheSlacker/minesweepr.git] (https://github.com/TonyTheSlacker/minesweepr.git)
+     git clone [https://github.com/TonyTheSlacker/minesweepr.git](https://github.com/TonyTheSlacker/minesweepr.git/)
    ```
 2. **Open the game:** double-click index.html to run it in your browser. No build step or Node.js server required.
+
 
 
